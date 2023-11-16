@@ -1,0 +1,3 @@
+canopy==8.42
+openai==0.27.10
+python-dotenv==1.0.0
