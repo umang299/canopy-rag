@@ -22,7 +22,11 @@ Pinecone API : https://www.pinecone.io/
 OpenAI API: https://openai.com/
 
 ```
-2. Run the command from your CLI.
+2. Install dependencies in your virtual environment.
+```
+pip install -r requirements.txt
+```
+3. Run the command from your CLI.
 ```
 python main.py
 ```
